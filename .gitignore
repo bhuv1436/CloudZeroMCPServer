@@ -4,3 +4,22 @@ dist/
 *.log
 .DS_Store
 *.tsbuildinfo
+
+# Generated CloudZero SDK
+.api/
+
+# Coverage and test files
+coverage/
+.nyc_output/
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Claude Code files
+.claude/
+
+# OS generated files
+Thumbs.db

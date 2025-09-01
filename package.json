@@ -46,11 +46,10 @@
   "homepage": "https://github.com/your-org/cloudzero-mcp-server#readme",
   "files": [
     "src/",
-    "dist/",
-    ".api/",
     "README.md",
     "LICENSE",
-    "CHANGELOG.md"
+    "CHANGELOG.md",
+    ".env.example"
   ],
   "dependencies": {
     "@api/cloudzero": "file:.api/apis/cloudzero",

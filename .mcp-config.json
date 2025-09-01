@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "cloudzero-billing": {
+      "command": "tsx",
+      "args": ["src/index.ts"],
+      "cwd": "D:\\ClaudeCodeTest",
+      "env": {}
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "cloudzero": {
+      "command": "npx",
+      "args": ["tsx", "src/index.ts"],
+      "cwd": "D:/ClaudeCodeTest",
+      "env": {
+        "CLOUDZERO_API_KEY": "${CLOUDZERO_API_KEY}"
+      }
+    }
+  }
+}

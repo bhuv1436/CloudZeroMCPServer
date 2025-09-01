@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "apis": [
+    {
+      "identifier": "cloudzero",
+      "source": "@cloudzero/v2.0.0-main#1dpb61pmea4h1ld",
+      "integrity": "sha512-FQ2w2LlKABM6T8bPT+GU9HYLorr8QdVTAVgKnGwJP49tnifYKCOfJunMSgHapDgNfl58jdvp+6k8cHth+M0JnQ==",
+      "installerVersion": "6.1.3"
+    }
+  ]
+}
